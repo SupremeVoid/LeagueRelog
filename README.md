@@ -30,7 +30,7 @@ Having League of Legends installed on any drive.
 
 ## Authors
 
-* SupremeVoid
+* [SupremeVoid](https://github.com/SupremeVoid)
 
 ## Acknowledgments
 
