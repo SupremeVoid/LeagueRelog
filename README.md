@@ -11,9 +11,9 @@ Select the LeagueClient.exe in this dialog.
 Type 'path' if to change the path of the LeagueClient.exe
 
 To start League of Legends with one of the three options (EUW, NA or EUNE) simply type:
-'1' or 'EUW'
-'2' or 'NA'
-'3' or 'EUNE'
+* '1' or 'EUW'
+* '2' or 'NA'
+* '3' or 'EUNE'
 
 Type 'q' to exit the program
 
